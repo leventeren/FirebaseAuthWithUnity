@@ -1,0 +1,19 @@
+﻿public enum HeroNames
+{
+    SuperCat,
+    MegaDog,
+    UltraMouse,
+    CaptainFish,
+    DoctorBird,
+    NinjaRabbit,
+    TurboTurtle,
+    PhantomFrog,
+    CosmicCow,
+    GalacticGoat,
+    AstroAnt,
+    RoboRaccoon,
+    LightningLizard,
+    ShadowSnake,
+    MysticMonkey,
+    ThunderTiger
+}
