@@ -40,6 +40,9 @@ Projeyi Unity'de açın ve sahneyi çalıştırın.
 
 Bu proje, Firebase ile Unity arasında temel CRUD (Create, Read, Update, Delete) işlemlerinin nasıl yapılacağını öğretmek için hazırlanmış örnek bir uygulamadır.
 
+![](Images/register-ss.PNG)
+![](Images/login-ss.PNG)
+
 🇬🇧 
 # Unity Firebase Sample Project
 
